@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tfi:home|Door43 (tfi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tfi|d43-tfi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tfi/archive/master.zip|d43-tfi.zip]]
+
+**Recent Changes**
+{{changes>ns = tfi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tfi|Ethnologue data]]
+
